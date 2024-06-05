@@ -1,0 +1,22 @@
+.form
+{
+    position:fixed;
+    width:80%;
+     padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    margin: 10px
+}
+.form label
+{
+padding: 5px;
+}
+.form button
+{
+    margin: 10px;
+    background-color: lightblue;
+    cursor: pointer;
+    border-radius: 5px;
+    padding: 5px;
+}
